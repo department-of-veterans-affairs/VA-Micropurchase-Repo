@@ -2,7 +2,7 @@
 
 The Lighhouse team is looking for feedback on this Microconsulting Work Statement.  An issue has been created for feedback.  Please look at the issue for more information.
 
-# Microconsulting Work Statement – API Landscape Analysis and Near-term Roadmap Background #
+# Microconsulting Work Statement – Governance #
 
 ### Background 
 The Lighthouse program is moving VA towards an Application Programming Interface (API) first driven digital enterprise, which will establish the next generation open management platform for Veterans and accelerate transformation in VA's core functions, such as Health, Benefits, Burial and Memorials. This platform will be a system for designing, developing, publishing, operating, monitoring, analyzing, iterating and optimizing VA’s API ecosystem.
