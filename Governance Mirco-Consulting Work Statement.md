@@ -1,6 +1,3 @@
-### DRAFT Posting ###
-
-The Lighhouse team is looking for feedback on this Microconsulting Work Statement.  An issue has been created for feedback.  Please look at the issue for more information.
 
 # Microconsulting Work Statement – Governance #
 
