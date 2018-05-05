@@ -1,8 +1,6 @@
 # **Lighthouse**
 This is the GitHub repository for VA's Lighthouse program. 
 
-[Background] (https://www.google.com)
-
 # Background
 The Department of Veterans Affairs (VA) has clearly been at the forefront of conceptualizing, developing and adopting a variety of innovative services and technologies related to care delivery for many decades. No investment is clearer on this point than that made by the VA for last four decades related to information technology. The use of health information technology (health IT) has been a foundational element of care delivery within VA since 1977, when it made a commitment to employ the use of an electronic health record as a key component for care delivery. At the time, there were no commercial off-the-shelf (COTS) systems and the involvement of clinicians in the design of such systems was uncommon. However, VA made the decision to invest in the Veterans Health Information Systems and Technology Architecture (VistA), which helped lead the health care industry forward in the use of information technology.
 
