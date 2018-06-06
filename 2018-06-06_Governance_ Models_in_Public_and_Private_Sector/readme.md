@@ -1,3 +1,5 @@
+### Ad Hoc LLC, Skylight Digital LLC, and Sprezzatura Management Consulting LLC have been selected for award of the Governance Models in Public and Private Sector Microconsulting effort with a total value of $8,500.00, $9,395.00, and $10,000.00 respectively. A total of three quotes were received in response to the Request for Quotation. Deliverables will be available on the VA-Micropurchase-Repo once completed.
+
 # Microconsulting Work Statement - Governance Models in Public and Private Sector
 
 ### Background 
