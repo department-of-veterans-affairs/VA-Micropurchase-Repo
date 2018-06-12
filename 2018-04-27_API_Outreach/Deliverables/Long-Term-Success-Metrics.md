@@ -10,4 +10,4 @@
 - Number of inquiries on the Lighthouse SalesForce form 
 - Inbound requests for information 
 - Inbound requests for sandbox access 
-- Number of integrations in going live
+- Number of integrations going live
