@@ -13,7 +13,7 @@
 
 -   “Our mission is to to try to help people get jobs and anything we can do to make that experience better across any network...but vets come at a priority on that side.”
     
--   “[[01:52](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=112.59)] it's really help any veterans coming to Industry Partner X, you know, figuring out what their backgrounds were in the military, you know, learning more about how that translates into civilian roles”
+- "it's really help any veterans coming to Industry Partner X, you know, figuring out what their backgrounds were in the military, you know, learning more about how that translates into civilian roles”
     
 -   Employers come to them with an interest in hiring veterans
     
@@ -27,7 +27,7 @@
 -   Use case: Data on when Veterans will be leaving the military to target them to help them start their job search earlier
     
 
--   “[[36:14](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=2174.37)] “getting to the veteran 12 months before they're transitioned out gives them enough time to look, prepare, figure out”
+-  “getting to the veteran 12 months before they're transitioned out gives them enough time to look, prepare, figure out”
     
 
 -   Use case: Data on skill sets to match to their own keyword skill sets. Help with skill set transferral
@@ -41,7 +41,7 @@
 
 Willingness to integrate: 7:
 
--   “[[28:36](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=1716.86)] If it was me, I’m saying a 10, but it just depends on like how we really, I mean have to have them in the room for them to put their two cents and things from like a corporate communications legal standpoint and all that.”
+-   If it was me, I’m saying a 10, but it just depends on like how we really, I mean have to have them in the room for them to put their two cents and things from like a corporate communications legal standpoint and all that.”
     
 
 Impact: 10
@@ -53,13 +53,13 @@ Impact: 10
 -   VA as a stamp of approval for Industry Partner X
     
 
--   “[[21:51](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=1311.38)] I think if there was the ability to partner with apis and you know, have that kind of like self promotion and just having a partnership with the veterans affairs I think would give Industry Partner X credibility that this thing will grow like a wildfire because it's like they have a government stamp of approval plus we’re Industry Partner X”
+-   I think if there was the ability to partner with apis and you know, have that kind of like self promotion and just having a partnership with the veterans affairs I think would give Industry Partner X credibility that this thing will grow like a wildfire because it's like they have a government stamp of approval plus we’re Industry Partner X”
     
 
 -   Being able to funnel more veterans toward their site with VA credibility
     
 
--   “[[11:44](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=704.19)] I think working on a partnership via API and just, you know, sharing information in terms of like what could we do better, how does this look, you know, how do we get plugged into the databases of veterans because every veteran we add to Industry Partner X, that’s an easier way for them to get a job. So I think any type of API that has a candidate flow as well, would be extremely beneficial”
+-   I think working on a partnership via API and just, you know, sharing information in terms of like what could we do better, how does this look, you know, how do we get plugged into the databases of veterans because every veteran we add to Industry Partner X, that’s an easier way for them to get a job. So I think any type of API that has a candidate flow as well, would be extremely beneficial”
     
 -   Lots of statements about making the case to the VA about how they’re the premier job source compared to other companies
     
@@ -81,14 +81,14 @@ Impact: 10
 -   Communications/legal:
     
 
--   [[21:28](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=1288.32)] “Yes. Communications. They're very...you know it's a big, it's a big company. So it's like, say less and you'll get in trouble less type of thing”
+-  “Yes. Communications. They're very...you know it's a big, it's a big company. So it's like, say less and you'll get in trouble less type of thing”
     
 
 ### Preconceived notions about government data
 
--   “[[06:58](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=418.25)] We tried to get it from the Bureau of Labor Statistics, but we just kept going around. So was like one of those things like you're knock on a door and then they say, go on, go knock on this door, and then it was...”
+-   We tried to get it from the Bureau of Labor Statistics, but we just kept going around. So was like one of those things like you're knock on a door and then they say, go on, go knock on this door, and then it was...”
     
--   [[08:35](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=515.22)] “usually when you think of the government and from what I dealt with, with bureau of Labor statistics, it's like a vault and it's like you, you try to reach out to be like, hey listen, you guys might be, we're essentially the Google for jobs. Anyone that types in a job search, every job from every website, um, imaginable is going to come to Industry Partner X. So we're like a one stop shop for veterans. Any veteran that needs a job, they can type in into the what and where. And here's a list of jobs that come up now. The more veterans that we have in our database, the more jobs we can get them. The more veterans that we have that are authenticated, the more our clients are going to rely on us to supply them with veterans because the biggest thing that we see is that there's a lot of clients that want to hire veterans.”
+-   “usually when you think of the government and from what I dealt with, with bureau of Labor statistics, it's like a vault and it's like you, you try to reach out to be like, hey listen, you guys might be, we're essentially the Google for jobs. Anyone that types in a job search, every job from every website, um, imaginable is going to come to Industry Partner X. So we're like a one stop shop for veterans. Any veteran that needs a job, they can type in into the what and where. And here's a list of jobs that come up now. The more veterans that we have in our database, the more jobs we can get them. The more veterans that we have that are authenticated, the more our clients are going to rely on us to supply them with veterans because the biggest thing that we see is that there's a lot of clients that want to hire veterans.”
     
 
 ## Recommendations
@@ -98,7 +98,7 @@ Impact: 10
 -   Personal outreach
     
 
--   [[27:18](https://www.temi.com/editor/t/6z9zVRkj04PIHr4TlG9XoViXqlAt3ItIOfVEfeMF2Ed0hvNhBTJ_IX4WkB4zK0_WFL1blgfJUSykegGkW3Bmq8GmGxs?loadFrom=PastedDeeplink&ts=1638.38)] “I don't know if we went to them or they went to us.”
+-  “I don't know if we went to them or they went to us.”
     
 
 -   Give them lead time to make API development a priority
