@@ -263,7 +263,7 @@ Do you have any questions at this stage?
 
   
 
-Working with USAJobs, ive heard on the veteran side that it takes a lot of time to apply through USAJobs. When I got out of college, it took an hour and a half to apply for 3 jobs.
+Working with Agency X, ive heard on the veteran side that it takes a lot of time to apply through Agency X. When I got out of college, it took an hour and a half to apply for 3 jobs.
 
   
 
