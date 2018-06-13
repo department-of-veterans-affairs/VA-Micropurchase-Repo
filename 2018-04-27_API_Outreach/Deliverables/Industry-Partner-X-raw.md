@@ -58,7 +58,7 @@ Do you have any questions at this stage?
     
 -   Past integrations, repeatable across vendors
     
--   Send jobs to indeed, they’ve exposed fields and params that they can use
+-   Send jobs to them, they’ve exposed fields and params that they can use
     
 -   They call it an API integration, but it’s not really that, it’s an XML integration
     
