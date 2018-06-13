@@ -41,7 +41,7 @@ Do you have any questions at this stage?
 
 [The moderator will begin audio recording.]
 
-## Andrew and Ilan, head of integrations
+## X and X, head of integrations
 
   
 
