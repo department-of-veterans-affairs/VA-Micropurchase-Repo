@@ -127,7 +127,7 @@ Impact: 10
 
   
 
-# OPM
+# Agency Partner X
 
 ## Insights
 
@@ -176,7 +176,7 @@ Impact: 10
 -   Gathering institutional buy-in
     
 
--   OPM needs to have a plan for maintaining the data
+-   Agency Partner X needs to have a plan for maintaining the data
     
 -   Success stories
     
@@ -189,7 +189,7 @@ Impact: 10
 -   Accuracy, reliability of dataset
     
 
--   “The hard thing with OPM is when we put our stamp of approval on something, it has to be government wide and it carries this weight that maybe it doesn’t maybe if you’re just playing with something or prototyping and want to see how it goes. We don’t have that level of flexibility. It would need to be vetted that it’s actually really useful for Veterans, and it needs to be complete, that it would match up with our competencies and other large datasets that we have.” (20:40)
+-   “The hard thing with Agency Partner X is when we put our stamp of approval on something, it has to be government wide and it carries this weight that maybe it doesn’t maybe if you’re just playing with something or prototyping and want to see how it goes. We don’t have that level of flexibility. It would need to be vetted that it’s actually really useful for Veterans, and it needs to be complete, that it would match up with our competencies and other large datasets that we have.” (20:40)
     
 
 -   Trust in data source
@@ -205,7 +205,7 @@ Impact: 10
 -   Data may not be relevant
     
 
--   “I guess being a data guy and knowing that the USAJobs has API, but we have a ton of APIs that are not always looked at as open data APIs or data that is going to be consumed...essentially I expect everyone to have an API nowadays, but is it relevant to what we do and is it data that our users can use to make a decision off of. That’s a whole different aspect of the question.”
+-   “I guess being a data guy and knowing that the Agency Partner X has API, but we have a ton of APIs that are not always looked at as open data APIs or data that is going to be consumed...essentially I expect everyone to have an API nowadays, but is it relevant to what we do and is it data that our users can use to make a decision off of. That’s a whole different aspect of the question.”
     
 -   “There may be information that I don’t know about your publishing of APIs, but my expectations are low for US government right now, unfortunately. But I welcome to have my expectations blown away.” (12:12)
     
@@ -230,7 +230,7 @@ Impact: 10
 
 ### Outreach strategy
 
--   Direct personal contact with OPM
+-   Direct personal contact with Agency Partner X
     
 
 -   “We consume Onet data through an API, but that’s not PII. If the API is going to involve PII, we need to have a direct personal contact at that agency.”
@@ -246,7 +246,7 @@ Impact: 10
 
   
 
--   Give OPM the data they need to make the argument for integration
+-   Give Agency Partner X the data they need to make the argument for integration
     
 
   
@@ -260,7 +260,7 @@ Impact: 10
     
 -   This data is reliable, up-to-date and not going anywhere.
     
--   OPM can confidently put their stamp of approval on this data.
+-   Agency Partner X can confidently put their stamp of approval on this data.
     
 
 ### Marketing Materials / Collateral
