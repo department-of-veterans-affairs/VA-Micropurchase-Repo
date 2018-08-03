@@ -1,0 +1,701 @@
+
+
+Meeting Minutes: GSA (Public Sector)
+
+
+
+Date: 07/18/2018
+
+
+
+
+Time: 2:00pm to 3:00pm EDT
+
+
+
+ 
+
+
+
+Attendance:
+
+
+
+Gray Brooks = GSA API Primary POC
+
+
+
+Justin Herman = GSA (role?)
+
+
+
+Joe Cosentino = Senior Leadership/Business Partner,
+Sprezzatura
+
+
+
+Shane Johnson = Management Analyst, Sprezzatura
+
+
+
+Nitin Sahai = Enterprise Cloud Architect, Sprezzatura
+
+
+
+Thomas Holliday = Senior Manager/Microtask Lead, Sprezzatura
+
+
+
+Mike Salvaggio = Director, Health Informatics, Definitive
+Logic
+
+
+
+Nolan Ventre = Project Manager, Definitive Logic
+
+
+
+ 
+
+
+
+ 
+
+
+
+Interview
+Agenda Items/Questions:
+
+
+
+ 
+
+
+
+General:
+
+
+
+
+What is your role in your organization? 
+
+Mr. Gray Brooks, POC Federal Agencies at GSA (focused
+on standing up API programs [public APIs]). In the Federal Government space for the
+past nine years (Communications), but started with the GSA five years ago with
+a focus on open source and APIs and outreach (he runs their API website). Four years ago became perm at GSA (vice detailed
+over there).
+
+API.data.gov referenced; facilitating and
+helping gov’t agencies utilize APIs more.
+
+Website: https://www.gsa.gov/
+
+How many API's do you build each year?  How many are for external consumption?  How many for Internal consumption? What are
+the security concerns for internal versus external consumption? Firewall
+relaxation process and procedures.
+
+Primary focus on helping government agencies
+with building APIs, and helping them to source and use more APIs.
+
+API first approach (both internal and
+external; data query).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you utilize external industry publications
+such as Gartner?
+
+Producing API (information or functionality).
+
+Focus on DEV outreach and looking at
+analytics. Offer help where they can.
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+Prioritizing
+API's to Build:
+
+
+
+How do you prioritize the API's you're
+building?  Do you use an Agile Backlog,
+or other method?  Do you evaluate based
+on Level of Effort and ROI, or use other metrics? Do you prioritize APIs as to
+their eventual utilization across the enterprise versus a single project?
+
+What API to build first versus 2nd,
+3rd, etc?
+
+Mr. Gray Brooks: Start with something; ensure
+that it is recognizable and useful.
+
+Mentioned the Federal Trade Commission. They
+used the GSA API management tool (could use any that you like).
+
+Heavyweight versus Lightweight registration =
+What have you seen, what is driving things from your perspective? 
+
+Mr. Gray Brooks: It depends. ‘We The People’
+White House example (open API). Can monitor folks independent of the technology
+(separate from user access and capability). Can use MuleSoft or CA (plenty of
+options).
+
+VA Lighthouse (now API Platform) approach is
+to have several DEV Teams working at the same time (concurrently). Have you
+seen that approach elsewhere?
+
+Mr. Gray Brooks: Not a bad idea; newer
+philosophy that they are following. HHS ‘CMAS’ (?) example brought up (I.e. two
+sets of Google Groups facilitating Blue Button API [comparable, but not exactly
+the same]).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How much of your API backlog is defined by a
+Consumer's request?  How much do you
+attempt to anticipate the needs of Consumers and build API's speculatively?
+Should speculative API development be more or less constrained by defined
+governance specifications?
+
+Question not addressed specifically in this
+section of the meeting notes.
+
+
+
+
+
+How do you make choices between building
+Experience layer API's vs Process layer vs System layer API's?  Experience layer API's vs Process layer
+development could conceivably be performed by different development team – how
+will the governance model be enforced when there is a multi-team development
+environment?
+
+Question not addressed specifically in this
+section of the meeting notes. 
+
+
+
+
+
+Do you allow Experience layer requirements to
+drive build prioritization on Process and System layer APIs?  If not, why not? Or is the option of the
+building of “mocked” lower level API implementations (Process and System)? 
+
+Question not addressed specifically in this
+section of the meeting notes.
+
+
+
+
+
+If you have API's/services on legacy
+platforms, how do you decide when port those over to a new platform?
+Additionally, how these legacy applications will be “ported” – re-hosted,
+re-factored, re-built?
+
+He encourages the process of
+Building/developing a API if its on a legacy platform or your switching to
+hosted
+
+Gray: Avoided becoming a system owner; SAM.gov
+example … yes. GSA Legacy system wrapping APIs around it. Not uncommon to take
+this approach. Also, spoke about automation.
+
+Tough to frame the ‘cost / benefit’ statement
+as it relates to APIs. Have you seen that at other agencies?
+
+Mr. Gray Brooks: Yes. Have seen that other
+places. Automation and real-time discussed versus APIs. Integrating in
+real-time resonates with people.
+
+
+
+
+
+
+
+
+
+
+
+Standards
+to Which to Build
+
+
+
+Do you have multiple, unrelated teams,
+delivering API's into the same environment? 
+If so, what lessons have you learned about configuration management
+across the environment/teams? What level of maturity are your Agile, CI/CD,
+Dev/Ops capabilities?
+
+They are flexible and use plenty of vendors
+for their unique qualities.
+
+Dev GitHub to Ansible to Environment.
+
+Any tools that you recommend?
+
+Mr. Gray Brooks: Not really. Asking ourselves
+what is modern and mainstream.
+
+
+
+
+
+
+
+
+
+
+
+Does your organization maintain formal
+standards for: API Contracts, Naming Conventions; Version Control, Branching,
+and Merging; Testing Requirements; Exception Handling; Logging; Security?  Would you be able to share any documentation?
+How is this documentation presented – web pages, WIKIs, Playbook SharePoint
+sites etc.?
+
+Documentation for developers = GitHub based
+API documentation, API utility testing.
+
+API standards and best practices available at
+GSA.github.org (reference).
+
+Just contributed to the standards started by
+other colleagues; got to adopt and modify.
+
+Use GSAs APIs standards as a starting point
+(research already done).
+
+Joe: Who do you think ‘owns’ the process
+within each Agency? None of the DEV people in the VA involved with Lighthouse
+have been involved in that (process).
+
+Mr. Gray Brooks: VA Digital Strategy Team and
+CTO (team) should be good contacts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you experience a need to keep documentation
+and configuration control minimal/light? 
+How do you ensure you're minimizing paperwork/bureaucracy and maximizing
+code delivery?
+
+Mention of Agile, CI/CD, DevOps capability
+levels.
+
+Documentation for, and Comms with DEV
+
+Mr. Gray Brooks: Big question (good job / bad
+job he has seen). API creation vice upward progress and documentation. Do API
+documentation in GitHub; can use Microsoft. Take what you like and ‘fork it’
+(??); Use others API templates and fork it.
+
+FISMA mentioned
+
+GitHub ‘Issue Tracker’ is a positive tracking
+and feedback mechanism tool.
+
+API usability testing (big fan of this).
+
+Bring others in as reviewers to ask the
+standard questions in an open environment to review what is there and state
+what they see as missing items.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do you enforce standards across multiple
+development teams?
+
+Via API reference architecture and governance
+docs.
+
+
+
+
+
+ 
+
+
+
+Consumer
+Experience
+
+
+
+How many customers external to your organization
+consume your APIs? 
+
+Question not addressed specifically in this
+section of the meeting notes.
+
+
+
+
+
+What have you learned about development,
+testing, deployment that you apply to maximizing consumer experience?
+
+Good developer experience.
+
+
+
+
+
+ 
+
+
+
+Closing
+Questions
+
+
+
+Are there any internal documents (not
+published on your webpage) that you could share that would show how you apply
+governance internally?
+
+He uses GITHUB a lot. It tracks issues very
+well which in turn assists his team.
+
+To whom do you look to for API governance best
+practices, with who else should we speak?
+
+Mr. Gray Brooks: No. Just doing it. Sent a
+number of links to various forums (like the US Government Google forum).
+Monthly meetup in DC regarding APIs. Team would be welcome to come to the
+meetups and join the conversations.
+
+‘Guide to starting an API working group at an
+Agency’ referenced.
+
+Join the Listserv; join the meetup.
+
+Welcomes review of API docs and strategy docs
+(Mr. Gray Brooks is open to reviewing items).
+
+May we please circle back with any follow-up
+questions?
+
+Mr. Gray Brooks: Happy to chat more later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+Additional Reference Information and Analysis
+
+
+
+Important Links
+
+
+
+https://github.com/GSA/api-standards
+
+https://groups.google.com/d/forum/Developer-group-for-cms-blue-button-api
+
+http://gsa.github.io/openIAE/ and http://gsa.github.io/sam_api/sam/
+
+https://apiumbrella.io/
+
+https://api-all-the-x.18f.gov/pages/open_source_documentation/
+
+https://api-usability-testing.18f.gov/
+
+https://www.meetup.com/DC-Web-API-User-Group/
+
+https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Microtask Requirement
+
+
+
+As the VA Lighthouse (now API
+Platform) Product Owner seeking the appropriate Governance model, I would like
+to understand, with the intention to adopt, best practices from the private and
+public sector, specifically for prioritizing APIs to build, standards to which
+to build APIs, and making the APIs usable by external consumers. We would like
+the primary research performed to gather best practices around:
+
+
+
+Characteristics of effective models in
+the public and private sector, and who is successfully using them.
+
+
+
+Including
+the utilization of leading edge API development enabling technologies (CI/CD,
+Dev/OPS, Micro service, Containers etc.).
+
+
+
+Lessons learned from these organizations
+(both what is working and what isn't)
+
+Highlight strengths and weaknesses of
+selected governance models.
+
+
+
+
+
+__________________________
+
+
+
+Interview
+Analysis
+
+
+
+ 
+
+
+
+Here are
+some items that we found interesting from the GSA call relative to how VA
+operates today:
+
+
+
+ 
+
+
+
+Lightweight Whitelisting Process - We discussed the process to whitelist users
+of an API, including that of the White House's "We The People"
+API.  GSA advised that the Whitelist
+process should be light, except when giving write privileges.  They noted the IRS process was an extreme
+example of a heavy whitelisting process, driven by their requirements.
+
+
+
+Analysis: We anticipate the white
+listing/authorization to use process at VA being challenging due to the number
+of business units, variety of use cases, and potential to handle PII and
+PHI.  We recommend that the API Platform
+governance team create tiered templates for lightweight whitelisting and
+heavyweight whitelisting.  These could
+then be presented as Out of the Box solutions for specific business line
+requirements.
+
+
+
+ 
+
+
+
+Demo's To Ensure a Positive Developer
+Experience - GSA
+recommended having 2-3 "outside" developers come in and review web
+documentation on a new API.  This
+"murder board" approach will poke holes in assumptions made by the
+development team.
+
+
+
+Analysis: This is a useful idea to adopt and could be
+placed as a task or optional task in a contract.  Our experience is that VA will ask an API
+consumer to do this.  That's fine, but it
+risks wearing on the consumer as we're asking them to expend funds to support
+the VA's API development process. 
+Recommend linking the requirement to have a small cadre of developers
+available for this type of review to that of a formal API Evangelist role
+within a governance structure (see below). 
+Recommend that outside developers be engaged only when VA feels it has
+fully mature documentation based on a best practice (also see below).                                                                                     
+
+
+
+
+ 
+
+
+
+Pick and Use an API Developer Site as an
+Example - When GSA
+plans to produce and publish developer notes to augment their API contracts,
+they look to other sites to determine bests practices and then emulate those on
+their own API web pages targeted at developers.
+
+
+
+Analysis: Documentation that is developer friendly,
+and highly accessible through public web pages, is typically not a
+requirement/specification within T4NG contracts nor necessarily a core
+competence of the current VA teams developing middleware services.  Recommend that prior to any new contracts for
+API development being written, that a review of some API Developer webpages be
+completed in order to identify common denominator elements.  These can be published in Playbooks, Design
+Patterns, and required in future contracts.
+
+
+
+ 
+
+
+
+Benefits of Internal Evangelism and Existing
+Government API Community - It was interesting to learn about the larger community of
+government API developers and their participation on certain web sites and even
+in-person meet ups in the Washington, DC area. 
+Outside of possibly Digital Services teams at VA, it is unclear to us that
+other Enterprise Shared Services, or other development teams, participate.
+
+
+
+Analysis: We recommend that Evangelism be explicitly
+addressed in future API Governance initiatives. This Evangelism should include
+external outreach as well as internal outreach to VA development teams that
+could either ultimately expose an API publicly, or who could provide Process or
+System layer API's/services supporting exposed API's.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
