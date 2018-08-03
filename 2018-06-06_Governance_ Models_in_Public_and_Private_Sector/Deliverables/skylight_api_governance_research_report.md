@@ -80,7 +80,7 @@ Software architecture is always a product of its existing environment or domain.
 
 * **Definitions &ndash;** Access to and availability of machine-readable definitions, schemas, processes, and other guiding structural elements shape software architecture as well.
 
-Domain expertise, awareness, and structure will always fundamentally shape an organization’s software architecture. This makes it imperative not to outsource all of your domain expertise, as many organizations we talk to expressed. Otherwise, you run the risk of not having access to the critical domain knowledge that you need to design and evolve your software architecture on your terms.
+Domain expertise, awareness, and structure will always fundamentally shape an organization’s software architecture. This makes it imperative not to outsource all of your domain expertise, as many organizations we talked to expressed. Otherwise, you run the risk of not having access to the critical domain knowledge that you need to design and evolve your software architecture on your terms.
 
 ## Legacy considerations
 
