@@ -1,0 +1,852 @@
+
+
+Meeting Minutes: 1upHealth (Private Sector)
+
+
+
+Date: 07/24/2018             
+
+
+
+Time: 11:30am to 12:30pm EDT
+
+
+
+ 
+
+
+
+Attendance:
+
+
+
+Ricky Sahu = CEO & Co-Founder, 1upHeath
+
+
+
+Joe Cosentino = Senior Leadership/Business Partner,
+Sprezzatura
+
+
+
+Shane Johnson = Management Analyst, Sprezzatura
+
+
+
+Nitin Sahai = Enterprise Cloud Architect, Sprezzatura
+
+
+
+Thomas Holliday = Senior Manager/Microtask Lead, Sprezzatura
+
+
+
+ 
+
+
+
+Interview Agenda Items/Questions:
+
+
+
+ 
+
+
+
+General:
+
+
+
+Services that they provide? 
+
+Brief overview provided by Mr. Ricky Sahu, CEO
+of 1upHealth. 
+
+1upHealth product supports about 70 companies
+with 160+ health systems building off of their APIs (general overview). Per
+their Website, 166 Supported Health Systems with over 1000 locations.
+
+Website Link: https://1up.health/
+
+FHIR APIs discussed briefly (I.e. FHIR in PROD
+and testing APIs). It was mentioned that VA is ‘experimenting’ with this right
+now. Mr. Sahu has worked with the VA on prior requirements. 
+
+Also, discussed briefly was meaningful use 3
+health care data via API.
+
+Built 1upHealth to help App DEV folks; help
+them connect to 166 healthcare systems across the US including Mayo Clinic,
+Inova, etc.; Can get data in a matter of seconds
+
+Other informational elements touched upon
+included:
+
+Medicare data
+
+External data aggregation: Works directly off
+the APIs that they provide. Do not need to worry about security, data sources,
+etc.
+
+Specifically, for the VA, VA patient data
+between Inova and VA was touched on. They can take their data and share it
+within seconds.
+
+What is your role in your organization?
+
+Mr. Ricky Sahu is CEO and Co-Founder of
+1upHealth.
+
+Prior to 1upHealth, Mr. Sahu mentioned that he
+was the first employee and Director of Engineering at CareJourney (which, per
+their Website, ‘... analyzes claims data and publishes APIs for Accountable
+Care Organizations to improve care and reduce costs’). That is how they learned
+about this space with 1upHealth.
+
+How many API's do you build each year?  How many are for external consumption?  How many for Internal consumption? What are
+the security concerns for internal versus external consumption? Firewall
+relaxation process and procedures.
+
+Question was asked as to, “What’s under the
+hood?” (with regard to your solution offering). Mr. Sahu stated, “Aggregation
+and platform.” 
+
+Aggregation = 7 total healthcare vendors
+
+Tech under the pieces of aggregation = FHIR
+(various versions)
+
+EPIC mentioned along with Cerner (need to do
+work to canonicalize the data); 160+ health systems behind their backs
+(including custom work with the data directly, enrichment of the data). Use
+directly off of their platform so that users do not need to use their own
+database (DB). Once on 1upHealth, users can use their DB (different than EPIC
+and Cerner, which tends to be ‘Read-only’ access). No need with them to build
+their (a customer’s) own API layer on top of their App.
+
+Users of their APIs/App can write back data
+directly to them. A provider can directly see their data through the Enterprise
+Health Record (EHR) system.
+
+The discussion continued around enabling
+various Use Cases. MyHealth referenced = Wristband technology. Can be scanned
+by an EMS medical responder. Also, touched on was selling of data to nursing
+care, police, construction workers (unions). World Medical Bank also referenced
+(e.g. life insurance plans); using already captured data to help individuals
+obtain coverage without needing to get another physical check-up again.
+
+Question was raised around maturing the platform
+(I.e. How did you decide what to build 1st, 2nd, etc?).
+
+Recall from prior work experience how hard it
+is to get healthcare data (I.e. how to get healthcare data into 3rd party
+healthcare data app)?
+
+Currently, the focus is on heading down the
+patient advocate path (I.e. enabling patients to get their own data, when they
+want it, need it, etc).
+
+As 1upHealth, they built everything in FHIR
+first (I.e. all of the data is based on FHIR [querying, DBs, etc]). Once you
+know/figure out the healthcare system that the provider brings to the table,
+developers can then build off of what 1upHealth provides.
+
+One feature mentioned in particular is typing
+in any doctor name or specialty to find a specialty doctor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you utilize external industry publications
+such as Gartner?
+
+N/A
+
+
+
+
+
+ 
+
+
+
+Prioritizing API's to Build:
+
+
+
+How do you prioritize the API's you're
+building?  Do you use an Agile Backlog,
+or other method?  Do you evaluate based
+on Level of Effort and ROI, or use other metrics? Do you prioritize APIs as to
+their eventual utilization across the enterprise versus a single project?
+
+How does 1upHealth prioritize its work?
+
+Per Mr. Sahu, 1upHealth has an Agile backlog.
+So, the focus is on working on whatever people have requested the most. If
+there is something challenging to figure out, then they focus on that as the priority
+(I.e. subscriptions for alerts for new data not handled natively [typically]
+through the FHIR App; they have the ability to do what a user/customer wants
+for that kind of data).
+
+Question was asked related to a new med being
+prescribed with the NCD code? Answer is that 1upHealth can cover any of those
+because it works off of the FHIR API (which helps with workflows, etc).
+
+Question was asked if the solution pushes API
+alerts. The short answer is yes. A Development (DEV) person can create alerts
+off of the available data. A positive is that you can build any necessary
+system off of their platform. Tried to build it out in the best way possible.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Additional Follow-on Questions Asked [based upon the natural flow of
+the conversation]:
+
+
+
+Question raised related to API exposure, micro
+API model.
+
+4 major APIs discussed: 
+
+Admin API: Users and permissions mgmt
+
+Connect API: Connect health systems and
+sensors
+
+Open Data API: Load up info from public
+sources (I.e. all of the meds and their codes, other APIs, etc)
+
+FHIR API: Read and write access to data.
+Supports Tier 2 and 3 and can create custom FHIR resources (if desired).
+
+Question asked about how they manage the
+versioning of the APIs.
+
+Answer provided is that they have not had to
+change that much. However, 1upHealth has versioning within the URL.
+
+In terms of versioning the data, version
+history is tracked via the FHIR API.
+
+Questions asked about how 1upHealth got the
+EPIC, Cerner, and other Apps agreements and SLAs in place.
+
+Answer provided was 1upHealth set up
+agreements with their DEV programs, looked at Terms of Service, etc. Went
+through all of the checks; more of a platform versus an end user Apps (needed
+to do more). They interviewed the Apps, and looked at their Terms of Service,
+privacy policies, etc. Had to review more demos, etc.
+
+Regarding SLAs, Apps Status Dashboard
+referenced (this is something that you have to look at when you need to look at
+it). Above ‘4 9s’; don’t have anything in place for SLAs credits, etc. Looking
+to build more on this in the future
+
+Question raised about ‘Whitelisting’ to
+include what does that take, and how difficult is it to get that done.
+
+Answer provided is that it is not that
+difficult at this point on the DEV side.
+
+Patient data related items are not beholden to
+HIPAA, but 1upHealth follows those guidelines.
+
+Question raised about security of the solution
+set.
+
+Mr. Sahu stated that their solution is a SSL
+and Token based model. In addition, before and after PROD, they need to flip a
+flag on the back end if something did not go through their check (noting that
+it is a manual process to flip the flag).
+
+Token received before that, but do not
+inherently have access to health data.
+
+Question asked about maximizing the DEV
+experience for the App.
+
+Overall, a good experience (had issues early
+on). Have worked with dozens of healthcare apps. So, things ‘just work.’
+
+Healthcare Apps that are working with them,
+they let them know what they want. For new users, they open up the API and
+answer questions, address expectations, etc.
+
+Question asked related to test environments
+(I.e. one test environment exposed to the consumers and one PROD environment?).
+Mr. Sahu answered with an affirmative. Also, one internal environment utilized.
+Mr. Sahu also referenced validating user experience (“fully baked”). After
+something is in PROD, their are automated tests every 10 minutes that show up
+on their dashboard.
+
+Question raised about the Operation and
+Maintenance (O&M) side of the house related to how they deal with outages?
+
+Mr. Sahu stated that they are talking with
+Cerner (and others) to deal with that directly, to ensure that their systems
+are working correctly. Need a direct Account in order to access that/do that
+(not for all, but for some). Only affects NEW health connections, not existing
+ones (already have the data for those).
+
+95-99% of their product is built (and tested)
+in-house (in part, because there are not a lot of great test suites out there).
+FHIR is good; custom built by them in-house.
+
+Question raised about 1upHealth interest in
+working with the VA.
+
+Mr. Sahu stated that yes, there is interest
+there. 1upHealth has already done a lot in this space. Have similar customers
+(Israeli customer referenced; FHIR strategy mentioned). They (the Israeli
+company) have 9 million patients, and are testing 1upHealth out at this point
+(moving forward in the upcoming year). Yes. Interested in VA external and
+internal DEV (APIs related).
+
+Two VA champions (for APIs) are Mr. Bill James
+and Mr. Drew Myklegard.
+
+FHIR Version 2.0 referenced. Looking to expose
+about a half dozen platforms/systems/data sources.
+
+API Platform (prior Lighthouse project)
+referenced.
+
+6-12 months forward … VA moving forward
+
+VA wants to create a marketplace for the
+private sector to speculate on (desired/needed) APIs (for industry to monetize
+it).
+
+Mr. Sahu asked is this is Patient Access vice
+Institutional Access.
+
+Talking with other providers regarding taking
+the data from FHIR, store it on 1upHealth, and then enable a governance model
+where healthcare Apps access data within the walls of the VA (for example),
+because the data is ‘containerized’ within the 1upHealth App.
+
+Would need a FISMA ‘High’ (security) container
+to be in full compliance (just throwing out that idea).
+
+Can build upon VA APIs and consume it. They
+like that idea; can test in their environment with fake data, etc.
+
+Would be beneficial to both parties. Sprezzatura
+stated that they will bring up the idea/concept with their known government
+POCs (great idea).
+
+Would like to stay on top of the proposal work
+(consulting vice DEV/API Dev engagements). Open to VA personnel introductions.
+Sprezzatura welcomes the opportunity to work with 1upHealth; will get the
+introduction out there.
+
+Mr. Sahu asked what is the technology that the
+VA is using to build this all out.
+
+Mulesoft platform. It does not call directly
+back to VistA, but rather back to the CDW/Data Warehouse (updated every 24
+hours). Can expose the initial resources to the pilot.
+
+Mr. Sahu asked if the VA allowed to submit to
+the US Government grants (programs)? Guessing not since they are a US
+Government Agency, but willing to look into it (follow-up required).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Prioritizing API's to Build (con’t):
+
+
+
+How much of your API backlog is defined by a
+Consumer's request?  How much do you
+attempt to anticipate the needs of Consumers and build API's speculatively?
+Should speculative API development be more or less constrained by defined
+governance specifications?
+
+Reference above (in part). Not addressed
+specifically with these questions.
+
+
+
+
+
+How do you make choices between building
+Experience layer API's vs Process layer vs System layer API's?  Experience layer API's vs Process layer
+development could conceivably be performed by different development team – how
+will the governance model be enforced when there is a multi-team development
+environment?
+
+Not addressed specifically with these
+questions.
+
+
+
+
+
+Do you allow Experience layer requirements to
+drive build prioritization on Process and System layer APIs?  If not, why not? Or is the option of the
+building of “mocked” lower level API implementations (Process and System)?
+
+Question asked about ‘Mocks’/’Mocking.’
+
+Mr. Sahu stated that testing is from an App
+Dev person perspective. Yes. It is completely like a 3rd party is using it.
+
+
+
+
+
+
+
+If you have API's/services on legacy
+platforms, how do you decide when port those over to a new platform?
+Additionally, how these legacy applications will be “ported” – re-hosted,
+re-factored, re-built?
+
+Not addressed specifically with these
+questions.
+
+
+
+
+
+ 
+
+
+
+Standards to Which to Build
+
+
+
+Do you have multiple, unrelated teams,
+delivering API's into the same environment? 
+If so, what lessons have you learned about configuration management
+across the environment/teams? What level of maturity are your Agile, CI/CD,
+Dev/Ops capabilities?
+
+Not addressed specifically with these
+questions.
+
+
+
+
+
+Does your organization maintain formal
+standards for: API Contracts, Naming Conventions; Version Control, Branching,
+and Merging; Testing Requirements; Exception Handling; Logging; Security?  Would you be able to share any documentation?
+How is this documentation presented – web pages, WIKIs, Playbook SharePoint
+sites etc.?
+
+Reference prior feedback logged above.
+
+
+
+
+
+Do you experience a need to keep documentation
+and configuration control minimal/light? 
+How do you ensure you're minimizing paperwork/bureaucracy and maximizing
+code delivery?
+
+Not addressed specifically with these
+questions.
+
+
+
+
+
+How do you enforce standards across multiple
+development teams?
+
+Reference (in part) prior feedback logged
+above. 
+
+
+
+
+
+ 
+
+
+
+Consumer Experience
+
+
+
+How many customers external to your
+organization consume your APIs?
+
+From above/prior mention, 1upHealth product
+supports about 70 companies with 160+ health systems building off of their APIs
+(general overview). Per their Website, 166 Supported Health Systems with over
+1000 locations.
+
+
+
+
+
+What have you learned about development,
+testing, deployment that you apply to maximizing consumer experience?
+
+Reference prior feedback logged above.
+
+
+
+
+
+ 
+
+
+
+Closing Questions
+
+
+
+Are there any internal documents (not
+published on your webpage) that you could share that would show how you apply
+governance internally?
+
+Not addressed specifically with this question.
+
+To whom do you look to for API governance best
+practices, with who else should we speak?
+
+Not addressed specifically with this question.
+
+May we please circle back with any follow-up
+questions?
+
+Available for additional questions and
+follow-up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+Additional Reference Information and Analysis
+
+
+
+ 
+
+
+
+Microtask Requirement
+
+
+
+As the VA Lighthouse (now API
+Platform) Product Owner seeking the appropriate Governance model, I would like
+to understand, with the intention to adopt, best practices from the private and
+public sector, specifically for prioritizing APIs to build, standards to which
+to build APIs, and making the APIs usable by external consumers. We would like
+the primary research performed to gather best practices around:
+
+
+
+Characteristics of effective models in
+the public and private sector, and who is successfully using them.
+
+
+
+Including
+the utilization of leading edge API development enabling technologies (CI/CD,
+Dev/OPS, Micro service, Containers etc.).
+
+
+
+Lessons learned from these organizations
+(both what is working and what isn't)
+
+Highlight strengths and weaknesses of
+selected governance models.
+
+
+
+
+
+__________________________
+
+
+
+Interview Analysis
+
+
+
+ 
+
+
+
+Dedicated User Permission API - 1upHealth created a single
+API "to programmatically create users and granularly manage their data
+permissions."  This uses OAuth2
+tokens and manages permissions across the rest of the API's 1upHealth
+exposes.  
+
+
+
+Analysis: VA already has multiple permission
+schemes for its publicly facing APIs. 
+D2D, the DVP Pilot, and Vets.gov are not coordinated on this.  VA could potentially focus on building or
+acquiring its own dedicated User Permission API and exposing that early in its
+API Platform program.  The requirements
+effort on this would likely be a complicated one given VA 6500, HIPAA, PHI,
+multiple business line requirements, etc. 
+This would however likely speed adoption of all subsequent facing APIs.
+
+
+
+ 
+
+
+
+Leveraging Requesting Consumers to
+Beta Test Functionality and Documentation - 1upHealth will not engage any developers
+in testing until 1upHealth as thoroughly tested their own API.  They use a reference implementation model
+whereby they test the API's as if they were a Consumer API.  Once that is complete, they will invite in
+the application developer that originally requested the functionality for a
+final check of the API and documentation before going to Production.  This is more about a test of the third
+party's consuming API, than about testing 1upHealth's, but it does provide a
+final check on 1upHealth functionality.
+
+
+
+Analysis: 
+This is consistent with our testing schemes in our interview
+process.  We recommend that VA require
+its contracted developers to be responsible for Reference Implementation testing
+of their own API's prior to any final testing with a consumer.                                                                                    
+
+
+
+
+ 
+
+
+
+EHR Value Creation Above Cerner, Epic,
+and other Provider Systems by Aggregating Provider, Patient, and Sensor Data - 1upHealth creates value for individuals and 3rd
+party application developers by layering above the Cerner and Epic (and other)
+EHR's of providers.  They maintain their
+own record of the patient with its own canonical model mapped to popular EHR's.  This record can include inputs from multiple
+Providers.  They include in this user
+inputted information as well as sensor (eg wristband input).
+
+
+
+Analysis: VA will have a challenging time
+deciding what API's and data it should own as well as deciding what it should
+share with other data owners.  This has implications
+for choosing what API's to develop.  For
+instance, should VA own an API (and accept data) that enables a Veteran to
+store information from outside provider for treatment not associated with a
+service disability?  Or, will VA be able
+to ingest sensor data from a third party API? 
+We recommend that any API Governance initiative include liaison with VHA
+on forward looking policy questions concerning health data sharing beyond what
+is maintained within the Veteran VistA and Cerner records.
+
+
+
+ 
+
+
+
+Communicating System Outages in a
+Multilayered Orchestration - 1upHealth experiences a similar challenge to the D2D model
+in VA.  They must be able to communicate
+outages in a multi-layered orchestration to a third party application consuming
+their services.  They do this by
+providing a web page dashboard that system administrators of consumer
+applications can manually check.  They
+are still maturing this process with the ideal being that 1upHealth makes
+periodic (every few minutes) calls in Production to underlying provider systems
+using test data.  The dashboard can then
+me automatically updated based on these service-level calls.
+
+
+
+Analysis: VA could follow a similar maturation
+path for providing consumers of its API's visibility into the overall system
+health.  The challenging part will be
+staging of test data for this in VA legacy systems or establishing a protocol
+for testing using the Production data in a way that does not impact the Veteran
+record.
+
+
+
+ 
+
+
+
