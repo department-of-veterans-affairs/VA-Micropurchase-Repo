@@ -102,7 +102,7 @@ Regardless of legacy concerns, we all live in the present. During our discussion
 
 * **Talent available &ndash;** The talent available for designing, developing, and deploying API infrastructure dictates what’s possible at all stages.
 
-* **Contractors &ndash;** Contracted work changes the dynamics of governance &mdash it requires strong processes and a different focus when it comes to execution.
+* **Contractors &ndash;** Contracted work changes the dynamics of governance &mdash; it requires strong processes and a different focus when it comes to execution.
 
 * **Mainstream awareness &ndash;** Continually aligning software architecture practices with mainstream practices helps to evolve the architecture incrementally.  
 
@@ -240,7 +240,7 @@ The API journey is always full of challenges, and the risks these challenges rep
 
 * **Reusability &ndash;** Similar to consistency, reusability is an obvious goal and should be worked towards, but it’ll also be elusive and not always reliably achieved over time. There might still be redundancy for some services, and overlapping aspects of delivering services, while in other areas reusability will be achievable.
 
-* **Build it and they will come &ndash;** There’s been a significant amount of reflection regarding targeting, developing, and publishing APIs that weren’t needed based upon an "if you build it, they will come" mentality &mdash where often nobody came and the work was in vain.
+* **Build it and they will come &ndash;** There’s been a significant amount of reflection regarding targeting, developing, and publishing APIs that weren’t needed based upon an "if you build it, they will come" mentality &mdash; where often nobody came and the work was in vain.
 
 Challenges are a fact of life in the delivery of software and evolving complex systems using APIs. Identifying challenges should be a natural part of the process for targeting resources for delivery as APIs. Challenges can increase friction when delivering services, and should be carefully evaluated before tackling the development of new services. It’s easy to identify the potential of new APIs, but it takes a more seasoned eye to factor in the potential challenges.
 
@@ -280,7 +280,7 @@ APIs are built on, and benefit from, over 20 years of web history and evolution.
 
 * **Open source &ndash;** The usage of open-source software, tooling, specifications, and processes are helping to deliver on the API vision across the enterprise. Web APIs reflect the open-source ethos, and plays well with the delivery of web APIs. Encouraging reuse, adoption, and observability is necessary to help APIs succeed.
 
-APIs are all about doing business on the web. The web provides the platform in which any API program will operate. When it comes to defining schemas, standards, and common patterns for use across API operations, the web is always the beginning of the conversation. While enterprise-defined patterns will always be front and center, the standards used to operate the web should always trump localized definitions, and be given priority whenever possible. Don’t reinvent the wheel when it comes to the web &mdash always reuse and implement what’s already known.
+APIs are all about doing business on the web. The web provides the platform in which any API program will operate. When it comes to defining schemas, standards, and common patterns for use across API operations, the web is always the beginning of the conversation. While enterprise-defined patterns will always be front and center, the standards used to operate the web should always trump localized definitions, and be given priority whenever possible. Don’t reinvent the wheel when it comes to the web &mdash; always reuse and implement what’s already known.
 
 ## Under the influence
 
@@ -554,7 +554,7 @@ Since 2010, there’s been a huge uptick in the number of organizations doing AP
 
 * **Problems &ndash;** Count on problems coming up everywhere. Dedicate a significant amount of time and resources to identifying and addressing problems that come up. Don’t let problems fester, go ignored, or unaddressed. One way to think of this is don’t let too much bad "API governance debt" accumulate.
 
-* **Existing realities &ndash;** API governance can’t proceed without taking your existing realities &mdash such as legacy system environments &mdash into account. While your objective should be to move the delivery of APIs to a specific destination, the strategy needs to be rooted in what exists today in order to build a bridge to where you want to be.
+* **Existing realities &ndash;** API governance can’t proceed without taking your existing realities &mdash; such as legacy system environments &mdash; into account. While your objective should be to move the delivery of APIs to a specific destination, the strategy needs to be rooted in what exists today in order to build a bridge to where you want to be.
 
 Not all organizations are ready for capital "G" governance. Some have to accept lower “g” governance, doing what they can with what they have to drive some aspect of governance forward. While an organized, centralized, and well-funded governance program is ideal and can achieve significant progress, a significant amount can still be achieved using a scrappier approach, at least until those efforts gain more traction and the resource attention deserved.
 
@@ -576,7 +576,7 @@ Therefore, the objective of our research effort was to bring some of this inform
 
 * **Making APIs available to consumers &ndash;** Exposing resources properly to consumers.
 
-Not every detail in this report will apply to the VA, nor every other organization looking to establish a wider API governance strategy. Our report is meant to shed light on the scope of how enterprise groups are addressing governance. And to serve as a source of information for organizations &mdash no matter how big or small &mdash to starting learning from one another.
+Not every detail in this report will apply to the VA, nor every other organization looking to establish a wider API governance strategy. Our report is meant to shed light on the scope of how enterprise groups are addressing governance. And to serve as a source of information for organizations &mdash; no matter how big or small &mdash; to starting learning from one another.
 
 Furthermore, this report reflects a patchwork of things that should be considered, rather than a prescriptive list of actions to take. There’s no such thing as a one-size-fits-all model to follow. With the right team and the right approach, you can make governance work for your organization and your specific circumstances.
 
@@ -722,7 +722,7 @@ Lesson learned: the organization’s domain is the most important thing. Don’t
 
 Just focus on consumer-facing APIs such as tax software providers. Engage process above. Will go onto the API platform where implemented and hosted. That platform has few things available to minimize rework: OAuth, OpenID, scopes for reducing resources, etc. In parallel to this, engage the API service process.
 
-Welcome session: producer team talks with Shipley team &mdash standards, platform architecture implementation, and API design.
+Welcome session: producer team talks with Shipley team &mdash; standards, platform architecture implementation, and API design.
 
 Kickoff session: looks at business requirements, strategy, backend data sources. Artifact that comes out is a kickoff artifact that’s published and will evolve over time as the design evolves.
 
@@ -758,7 +758,7 @@ n/a
 
 ## 1. What role do you play within the organization?
 
-Head of API Design and Delivery, focused on enabling the rest of the organization to delivery APIs. Run the API platform, including catalog of API services and API standards. Have six delivery centers, with various teams deliverying APIs.
+Head of API Design and Delivery, focused on enabling the rest of the organization to delivery APIs. Run the API platform, including catalog of API services and API standards. Have six delivery centers, with various teams delivering APIs.
 
 In functioning as a Center for Enablement, things have been going well. There have been challenges with ensuring quality given some constraints such as timeline.
 
@@ -776,7 +776,7 @@ Now focus on APIs for three groups: (1) third parties; (2) other agencies; and (
 
 Do have a digital frontdoor where others can request APIs. Because funding is a constraint, really need a strong business case that aligns to mission.
 
-Building APIs are very project focused and centered around data. Central group doesn’t prioritize really. Driven by demand or legislative requirement. Want to start exploring a change in model to be more user-centric and help to shape API strategy. Have been challenged to create reusable APIs across the organization. Standards have helped, but been a challenged to maintain consistent APIs, domain model, etc. Mastering the data from all the sources and ensuring their quality has been a challenge. Foresee this as being a challenge at scale.
+Building APIs are very project focused and centered around data. Central group doesn’t prioritize really. Driven by demand or legislative requirement. Want to start exploring a change in model to be more user-centric and help to shape API strategy. Have been challenged to create reusable APIs across the organization. Standards have helped, but been a challenge to maintain consistent APIs, domain model, etc. Mastering the data from all the sources and ensuring their quality has been a challenge. Foresee this as being a challenge at scale.
 
 ## 4. How does your organization define the data models and standards upon which to deliver and operate APIs?
 
@@ -938,7 +938,7 @@ Ensure there’s alignment between design of architecture and business outcomes,
 
 Partly answered above.
 
-Seen three patterns: (1) driven by specific projects (e.g., what info the app needs); (2) prior knowledge about what info is valuable (they know their business) &mdash they think of their business as a potential platform; and (3) what are the commonalities across the business (what would have highest reusability?), for example, that could accelerate delivery.
+Seen three patterns: (1) driven by specific projects (e.g., what info the app needs); (2) prior knowledge about what info is valuable (they know their business) &mdash; they think of their business as a potential platform; and (3) what are the commonalities across the business (what would have highest reusability?), for example, that could accelerate delivery.
 
 ## 4. How does your organization define the data models and standards upon which to deliver and operate APIs?
 
