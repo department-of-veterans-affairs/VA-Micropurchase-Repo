@@ -1,0 +1,461 @@
+
+
+VA
+Microtask_Lessons Learned__Meeting Notes__08.02.18
+
+
+
+ 
+
+
+
+Team -
+
+
+
+ 
+
+
+
+Meeting scheduled to discuss lessons learned
+and perform a brief retrospective on this microtasker.
+
+
+
+ 
+
+
+
+Let me know if there are any questions prior
+to the meeting. Thank you.
+
+
+
+ 
+
+
+
+_______________________________
+
+
+
+ 
+
+
+
+From the PPT (initial thoughts)
+
+
+
+ 
+
+
+
+Research & Analysis Process (primary areas
+of Lessons Learned)
+
+Evangelism
+
+Authorization (I.e. Whitelisting/Blacklisting)
+
+Maximizing Developer Experience
+
+Enterprise Architecture
+
+CI/DC Support & Documentation in a
+Federated Environment
+
+Performing the Microtask Work
+
+Create a mini IMS containing a start date,
+milestones and end date.
+
+When cold calling for information make sure
+the vendor understands that it is not a sales inquiry
+
+Follow the questionnaire questions flow more
+closely (aids in better note taking)
+
+Record ALL interview calls for reference back,
+as needed.
+
+Maintain a focus on specific research elements
+related to APIs (such as DEV versus Governance). Smart for VA to take that
+approach in doling out Microtaskers.
+
+Recommendations for Additional Microtask Work
+Areas
+
+I.e. API Risks & Security, Performance
+Metrics, Enhancements, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+PPT ‘Speaker Notes’ section: We
+identified usable lessons learned in the areas of evangelism, authorization
+(whitelisting/blacklisting), maximizing developer experience, enterprise
+architecture, CI/DC support and documentation in a federated environment, among
+others.
+
+
+
+ 
+
+
+
+*Per our proposal: Sprint
+Retrospective - Separate from presenting our research and analysis, we’ll also
+conduct a one-hour Sprint Retrospective with VA where we will critique our
+efforts and provide VA with lessons learned that may be applied to further
+research and Microtaskings.
+
+
+
+ 
+
+
+
+_________________________________________
+
+
+
+ 
+
+
+
+Attendees:
+
+
+
+Courtney Bethea
+
+Bret Meyer
+
+Joe Cosentino
+
+Shane Johnson
+
+Thomas Holliday
+
+Nolan Ventre
+
+Mike Salvaggio
+
+Saul Rojas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________________
+
+
+
+ 
+
+
+
+Focus of this session: Process of working the microtask.
+
+
+
+ 
+
+
+
+NOTES:
+
+
+
+Responding to the microtask. Good
+to respond in a public forum through the draft RFI process.
+
+Good thing to having sharing
+online (including others that responded to the microtask; seeing things out on
+GitHub shared).
+
+DRAFT PWS in a public forum was a
+step forward with the microtask process.
+
+Collaborative approach,
+flexibility for interactions, as well as timeframe for deliverables (putting
+quality over rigid timeframes)
+
+Period of performance is 2-4 weeks
+(helpful time frame).
+
+Maximized the value of each call
+with the interviewees; opportunity to do things better (I.e. get interview
+questions to those being interviewed ahead of time to aid in the call structure
+and interview process).
+
+Establish expectations for
+follow-up at the end of each call.
+
+Were the subject matter experts
+knowledgeable? Ready to share data?
+
+Yes. Had some really great calls.
+Lots of experience out there in both the private and public sectors.
+
+Glad to hear that we were able to
+contact some of the ‘heavy hitters’ in this API space.
+
+Was the 4 week window long enough?
+
+Yes. Flexibility is key. Ran into
+some vacation time at the beginning.
+
+Our approach to the micro task was
+focused, but definitely not dedicated resources.
+
+Difficult to respond to other
+available microtasks while working on the current microtask.
+
+Resource constraints; dollar constraints.
+Difficult to perform work on multiple microtasks at the same time. Challenge of
+the microtask model.
+
+Should add more time to respond to
+the microtask RFIs (14 days versus 7 days)? Yes, would be good.
+
+OK. Change we will see coming is
+adding more pages allowed for the response.
+
+We think that a 1-2 page limit is
+good for something this size.
+
+This is different than larger
+proposals that would require more pages and content.
+
+Encourage folks to respond in 1-2
+pages (target); up to 5 pages acceptable.
+
+It is possible that the VA might
+keep seeing the same organizations responding to these microtasks over time
+(could be good, could be challenging, or could be neutral). Might want to
+proactively address this through the RFI process in some fashion (like encouraging
+new entries while maintaining connections with those that have already
+contributed to the API Platform/microtask activities).
+
+Would the VA be interested in
+reaching out directly to POCs that we contacted?
+
+Would start with us as the warm
+follow-up to get more data.
+
+Level of effort of the total team
+combined. Was $10K enough to cover the time we put into it?
+
+It sounds like it is ok to
+follow-up with the government and say that we can do ‘x’ amount of work for the
+$10K.
+
+We want to provide a quality product;
+time and resource constraints factor into that equation.
+
+Overall, we will be on the edge of
+that dollar amount for time and effort expended.
+
+Team working on the microtask is
+key (I.e. an experience team is key). IMS would be good to have listing out milestone
+dates (etc) to help keep things on track. Our team worked well together.
+
+Standard format that the microtask
+RFIs/PWSs have; keeping things streamlined and lightweight/Agile.
+
+Might be beneficial to have more
+ready made templates for the microtask work (thinking in terms of doing more of
+these in the future; having a standard schedule template, questionnaire format,
+meeting notes format, etc).
+
+Appreciated the nimbleness and
+flexibility, and the streamlined nature of the process (including the RFI/proposal
+process, the open door policy to ask questions of the government, the flexible
+time frame offered for working on and completion of the deliverables). Truly,
+an Agile approach.
+
+Courtney is the POC for
+micro-purchases (90% of them). Open to receiving more feedback from us in the
+future (related to the microtask proposal process, etc).
+
+Like kickoff meeting format (I.e.
+focus on us as the vendor; forum for us to ask our initial questions, get good
+direction at the onset, level set expectations, etc).
+
+Various initiatives had multiple
+winners. Reminder that others are utilizing GitHub for their deliverable
+uploads (as directed). So, everything uploaded to GitHub is visible 
+
+Great working on this microtask in
+support of the veterans
+
+API Evangelism was mentioned a
+couple of time. Important element to keep in mind and promote in this work
+area.
+
+API Platform/Lighthouse Platform =
+RFI at a grander scale is out there
+
+Question: Sprezzatura is closely
+tracking this one; A lot DEV work and API Governance blended together in there;
+Will there be two separate RFIs for each piece, or kept in this combined form
+(Product and Services type piece). Directed us back to the contracting office
+to ask this formal question
+
+Courtney works for the API
+Executive Director (Drew Myklegard)
+
+Next steps:
+
+Courtney to send Thomas the GitHub
+link again [Received].
+
+There are billing instructions out
+there (?); will go and look after the call.
+
+Thomas to follow-up with Joe and
+the team regarding deliverables completion, uploading to GitHub, and any
+remaining follow-up items like getting ou invoice over to the government for
+processing and payment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Call ended at 1400 (on time) 
+
+
+
