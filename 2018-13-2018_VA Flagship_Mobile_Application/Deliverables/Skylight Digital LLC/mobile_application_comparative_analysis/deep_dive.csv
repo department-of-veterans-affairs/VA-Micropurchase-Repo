@@ -1,0 +1,70 @@
+Company,Company Type,UI Design Notes,Location / Maps,Push Notifications,Offline,Biometric authentication,Payments,"Camera, Contacts, Calendar, Media Access",Voice Assistants + Speech/Voice,Messaging
+Bank of America,Banking,"- Primary menu (at the bottom): Dashboard, and card/account info
+- Secondary Menu (at the top): My Card, Bill Pay, Rewards, Deals, More
+- Content has a higher than expected emphasis on deals, perks and rewards (for example, there seems to be Starbucks perks
+- Alerts bar: (very top) Alerts - with payments, etc, Help, and logout ""lock"" icon
+- Help button is always at the top (surprisingly large - takes you to a screen with many options, basically the whole site IA)
+- ""Schedule an Appointment"" Flow takes you through self-selecting the thing you need help on, to a form you fill out. I imagine someone would contact you to schedule the appt later.
+- Overall easy to use and navigate if you stay on the common paths.","Yes, find locations (Google Map with pins)","Yes, settings include:
+- Do not disturb
+- Deals alerts
+- Per card notifications
+- General and security alerts
+- Text message alerts","No, app crashes if you have no connection","Yes, fingerprint login",No (not found),"Yes, photos of checks for deposits","Yes, Erica. You can have out loud conversations with Erica. It's not amazing but does a good job for a few optimized tasks like ""Did I have any transactions yesterday?""",
+USAA ,"Insurance, Banking","Primary Menus:
+- 4 main options w/ icons along the top: Transfer, Pay Bills, Deposit, Inbox
+- In hamburger (on left): My USAA (this is the home screen) Accounts, Transfer funds, Pay Bills, Deposit Mobile, Inbox, Help, Security Profile, Privacy Promise, About
+- 3rd Ellipsis menu (on right): Products, Help, Contact Us, Launch USAA.com, send app feedback
+
+- In general, it's fairly clean and utilitarian in design. With a robust set of features (auto, insurance, messaging, real estate, retirement, shopping discounts, car buying, etc), it manages to be fairly well organized. 
+It feels ""government"" with navy blue and white; minimalist.
+
+- There are also more tabs for a lot of the above menus with even more stuff: community, news, work life section, family life section, military life section, advice tools
+
+- Worth noting USAA has a prevalent support community: https://communities.usaa.com/t5/Technical-Support/bd-p/technical-support","Yes, at minimum:
+- Roadside assistance
+- Find ATMs","- Payment notifications
+- Deposit notifications
+(likely more, unable to access page)","App appears to show loading screen when there is no access to internet, then default to a previous screen. There is no clear notification of services that will work/not work when connectivity is lost.","Secure fingerprint, face or voice recognition for login",Using Zelle,"Yes: 
+- Check deposit
+- Document scanning (need to verify)
+- Will access documents and media on your phone to submit documents","Say or type a question, in-app assistant will help with specific guidance or get you in touch with a USAA representative
+","USAA allows you to transfer funds, pay USAA bills or check 
+balances via text message. You can configure this via their mobile app. "
+Capital One,Banking,"Primary Menu: is hidden behind profile pic/hamburger
+- This makes for a pretty clean menu situation, but it's not super intuitive. 
+- Options are Profile, Security, Settings, Help (contact / branch locations / legal info), Notifications, Feedback, Products Menu
+
+Seems to be optimized for looking at a few things (balances and transaction, for example) frequently. It's a lot of scrolling, and a little blue/gray. 
+","From their site: 
+- Find a branch or ATM nearby 
+- Enhanced security by monitoring unusual account activity ie if large purchases are being made in a location that you have never been to, this permission will alert them to fraud","Yes: 
+- Settings screen - seem to solely be non-customizable security notifications
+- Instant purchase notifications","No, the app doesn't crash but you can't do anything / many errors and warnings","- iOS: face ID
+- Android: fingerprint login (and two-factor)",No (not found),"Camera, for depositing checks.
+For contacts: plans to use this access for a payments to friends feature that isn't yet launched.","No (not found), though you can integrate capital one accounts with Alexa, and use Alexa to access your account",
+Mayo Clinic,Healthcare,"- Very clean landing page with illustrated cards (looks like a modern health app, calendar/date based)
+- Navigation is only along the bottom: Today, Search, Request, Patient, Profile
+- It doesn't immediately ask for any sign in/signup information but gives you content, which is refreshing if you just want to read or search. 
+- The search screen has a variety of ""popular searches"" that give you an indication of their content (e.g., ""Epilepsy"" or ""Healthy Recipes"")","Find a Mayo clinic location, using Google Maps","Notifications for appointments and scheduling, results, labs, messages, suggestions and health news","No notifications globally of loss of connectivity, but notifications pop up somewhere along the way to completing something saying there was an error, or you have no connection","Touch ID, fingerprint login",No (not found),"Can view radiology images, interfaces with apple health, has apple watch integration for appointments ","None currently found, but interesting research on the ability to use applications to study diseases:
+https://www.mobihealthnews.com/content/mayo-clinic-study-shows-voice-analyzing-app-may-be-useful-heart-disease-diagnosis","- Messaging with your doctor via email interface
+- One notable feature: ""Tell a friend"" allows for you to schedule or communicate with a doctor on someone else's behalf"
+Zocdoc,Healthcare,"- It's very bright, colorful and simple. Since the feature set is smaller (they are not a provider, but a connector) the app feels more focused than the others. You can find the right covered doctor based on reviews, and make scheduling easier. 
+- Top navigation (all icons) Search, History (clock), Saved Physicians (People), Recommended Physicians (happy face thing), Profile
+- On the landing screen it looks similar to the desktop: you used your criteria: insurance + location + ailment / care type to find a physician
+- Maps, contact information, and reviews are embedded throughout whenever possible. Sharing your preferences is also prevalent.","- Location-based search
+- Directions (opens native maps directions with apps)","- Wellness and prevention reminders (email or push notifications)
+- This is all that is listed, but there likely are also appt reminders","When there is no connectivity, there is a warning along the bottom to prompt you to try again when you have access again",Fingerprint login,No (not found),"- Access to the phone to make calls
+- It does request access to take pictures, access device storage, though it is not clear why  ",No (not found),No (not found)
+Follow My Health,Healthcare,"There's a lot happening in this app. Usually it's the only option from a provider so figuring it out is worthwhile. While it is not flashy, it does function as expected and pack a lot of helpful features. Some notes on how it's set up:
+- You can toggle between family members (very top) to change everything else
+- There's a hamburger on the left that has a big menu. Main options are: Renew Rx, Messages, Appts, Bills, My Connections (which includes providers and HC orgs), Health Tools, Health Journal, My Account, Device settings, Support, Sign In / Out
+- Each section seems to have a sub-navigation along the top.
+- Don't know that the native app does anything other than the web, but given the amount of content and complexity of that content the app it has utility
+- As far as offline support, it gives you warnings when you lose service, but still lets you see all of your information, records, etc. (A nice feature for when you're sitting deep in the bowels of a hospital and coverage is spotty.)",No (not found),"Yes:
+- Appt reminders and updates
+- Goal alerts
+- My reminders
+- Organization bulletins
+- Provider communications
+- Updates to health record","Yes, you can see cached data and use the app offline. It appears that something like changing your settings or password would not work. ","Yes, fingerprint authentication",No (not found),"No (not found) - has scheduling and it's own calendar view, but no apparent integration with native calendar",No (not found),
