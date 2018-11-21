@@ -226,7 +226,7 @@ A more detailed description of the current options for mobile app development ha
 
 ![Mobile app development decision framework.](images/mobile-app-dev-decision-framework.png)
 
-Regardless of what mobile app development approach is chosen by the VA to implement a flagship mobile application, we can strongly recommend a thin-client, thick API architecture and a blended approach to feature creation. More detail on these two recommendations are in the [dedicated deliverable](mobile_flagship_app_development_analysis/mobile_app_development_trends.md) and interested parties are *strongly* encouraged to read more there.
+Regardless of what mobile app development approach is chosen by the VA to implement a flagship mobile application, we can strongly recommend a thin client, thick API architecture and a blended approach to feature creation. More detail on these two recommendations are in the [dedicated deliverable](mobile_flagship_app_development_analysis/mobile_app_development_trends.md) and interested parties are *strongly* encouraged to read more there.
 
 # Conclusion
 
