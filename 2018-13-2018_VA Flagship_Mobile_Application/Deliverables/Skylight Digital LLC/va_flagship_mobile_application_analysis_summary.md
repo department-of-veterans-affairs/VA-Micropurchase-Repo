@@ -34,7 +34,7 @@ The purpose of this analysis is to begin to answer some questions the VA has abo
 
 * [General Review](mobile_application_comparative_analysis/general_review.csv)
 
-* [Deep Dive]((mobile_application_comparative_analysis/deep_dive.csv)
+* [Deep Dive](mobile_application_comparative_analysis/deep_dive.csv)
 
 * [Flagship App Technical Tear Down](mobile_application_comparative_analysis/technical_tear_down.csv)
 
