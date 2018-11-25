@@ -10,7 +10,7 @@ As the VA builds out its API ecosystem, it’s exploring the possibility of crea
 
 "Flagship mobile application" is a naval metaphor. The flagship of a fleet is the lead ship, usually the largest, fastest, newest or most powerful ship, the ship where the commander of the fleet serves. The name is because that ship flies the commanding officer’s flag.
 
-In this use with mobile apps, the term is borrowed even further from hardware product lineups, where the flagship device is the most expensive option in a product line, and carries the latest and greatest features the brand has on offer. In mobile app terms, a flagship app is the premiere app of a brand. It’s an app for consolidation of multiple use cases from multiple user personas. It often carries the brand’s name unadorned with a specific use case attached to it. It’s either the only app, or at least the default app for a brand.
+In this use with mobile apps, the term is borrowed even further from hardware product lineups, where the flagship device is the most expensive option in a product line, and carries the latest and greatest features the brand has to offer. In mobile app terms, a flagship app is the premiere app of a brand. It’s an app for consolidation of multiple use cases from multiple user personas. It often carries the brand’s name unadorned with a specific use case attached to it. It’s either the only app, or at least the default app for a brand.
 
 ## The Goal
 
@@ -54,7 +54,7 @@ The purpose of this analysis is to begin to answer some questions the VA has abo
 
 ## Comparative Analysis
 
-Comparative (or often called competitive analysis) is the practice of evaluating a list of competitive or comparable products based on a defined set of criteria. It’s helpful for documenting the landscape of options users have, as well as identifying common patterns and solutions.
+Comparative analysis (or often called competitive analysis) is the practice of evaluating a list of competitive or comparable products based on a defined set of criteria. It’s helpful for documenting the landscape of options users have, as well as identifying common patterns and solutions.
 
 The criteria used to evaluate and understand the ecosystem of mobile applications selected was a combination of features, technical capabilities, and an evaluation of the designed user experience. We wanted to understand what Veterans would expect of a VA Flagship Mobile Application based on services they’d find elsewhere, and then define how the VA can meet or beat that standard set by best-in-class, private-sector applications.
 
@@ -178,7 +178,7 @@ A [complete deliverable](mobile_flagship_app_development_analysis/mobile_app_dev
 
 **Key takeaway - there are smart ways to do native mobile app development:** Once a product team has decided to pursue developing a mobile app, it doesn’t mean the decisions about the approach are then complete. A blended approach covers the primary use cases and user interactions natively, and then supplements these with in-app mobile web experiences for less common uses and edge cases. Similarly, once a product team has committed to separate iOS and Android development streams, it doesn’t mean collaboration between the two teams is limited. Ideally there is actually one team and one development project which is developing a shared thick API and two thin native clients.
 
-**Key caveat - there are VA specific considerations:** Our analysis of comparable private-sector applications needs to be strongly tempered by many VA-specific considerations. We saw little evidence in analyzed comparable apps of care and concern paid to many VA specific concerns such as: special needs accessibility, challenging network connectivity, older and outdated device support, and federal laws that may guide the VA in areas such as identity authentication or privacy.
+**Key caveat - there are VA-specific considerations:** Our analysis of comparable private-sector applications needs to be strongly tempered by many VA-specific considerations. We saw little evidence in analyzed comparable apps of care and concern paid to many VA specific concerns such as: special needs accessibility, challenging network connectivity, older and outdated device support, and federal laws that may guide the VA in areas such as identity authentication or privacy.
 
 # Recommendations for the VA
 
