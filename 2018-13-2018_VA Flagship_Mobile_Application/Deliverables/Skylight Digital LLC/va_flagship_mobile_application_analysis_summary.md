@@ -198,9 +198,9 @@ This column describes what the feature or user action is, grouped by type.
 
 **MVP:**
 
-This describes how crucial a feature is when launching an initial application, with the assumption that not everything can be built at launch. There are three tiers: &#10004;, v2, and x, described below.
+This describes how crucial a feature is when launching an initial application, with the assumption that not everything can be built at launch. There are three tiers: &#x2713;, v2, and x, described below.
 
-**&#10004;** = Suggested to build natively for first launch
+**&#x2713;** = Suggested to build natively for first launch
 
 **v2** = Suggested to gauge usage and user patterns, launch in later version and use responsive functionality for MVP
 
