@@ -134,7 +134,7 @@ Can a given development approach access the needed mobile functionality to deliv
 
 It’d be futile in this report to catalog the exact coverage of platform SDKs to various development approaches, as it’s dependent on so many details of implementation choices, it’s fluid in time, and the SDKs that matter are project dependent. We can make some very broad and imprecise statements about the state of things late in 2018 that can provide a flavor for where things stand today.
 
-** Web and Cross-Platform Access:**
+**Web and Cross-Platform Access:**
 
 * Camera
 
