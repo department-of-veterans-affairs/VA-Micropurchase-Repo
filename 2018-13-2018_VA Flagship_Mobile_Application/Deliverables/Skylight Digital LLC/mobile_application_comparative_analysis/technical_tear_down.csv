@@ -1,0 +1,59 @@
+Company,Company Type,App,Analyzed Platform,Primary Development Approach,Notable Frameworks / Libs,OSS,Notes
+Mayo Clinic,Healthcare,Mayo Clinic 4.4,iOS,Swift (Native),"Notable Apple Frameworks: Metal, MapKit, Photos
+
+Watch support",None noted,"Very traditional native iOS app; primarily Swift w/ some legacy Objective-C
+
+Apple Watch supported
+
+Notable lack of OSS footprint for the size of the app"
+Bank of America,Banking,BofA 7.9.0,iOS,Swift (Native),"Extensive use of BA specific frameworks (~42) including charting, speech and speech recognition, crash reporting, in addition to dozens of domain specific BA frameworks
+
+Notable Apple Frameworks: GL, Metal, GamePlay, CoreData, Siri, Watch",Opus audio codec,"Very traditional native iOS app; primarily Swift w/ some legacy Objective-C 
+
+Apple Watch and Siri supported
+
+Notable lack of OSS footprint for the size of the app"
+Zocdoc,Healthcare,Zocdoc: Find & Book Doctors 4.22,iOS,Swift (Native),"Some Zocdoc specific frameworks (~6)
+
+Notable Apple Frameworks: GL, Location, MapKit, Metal, Core Data
+
+Optimizely, AWS Cognito, Branch Metrics, mParticle, Google Places","- Masonry layout
+- Alamofire networking
+- FMDB SQLite wrapper
+- Date Tools
+- JSON Model
+- Lottie
+- PromiseKit
+- ReactiveKit
+- SnapKit","Very traditional native iOS app; primarily Swift w/ some legacy Objective-C
+
+iMessage extension, notification center extension
+
+More typical level of 3rd party and OSS utilization"
+Capital One,Banking,Capital One Mobile 5.41.0,iOS,Swift (Native),"Extensive Capital One specific frameworks (~20) 
+
+Notable Apple Frameworks: Payments, Photos, GL, Metal, Core Audio, Core Data, Watch
+
+Paribus, Usabila","- JTAppleCalendar
+- MGSwipeTableCell
+- OHHTTPStubs","Very traditional native iOS app; primarily Swift w/ some legacy Objective-C
+
+Extensive Spanish language support
+
+More typical level of 3rd party and OSS utilization; fairly extensive OSS/3rd-party use that wasn't easy to track down
+
+Today extension, notification extensions, Apple Watch supported"
+USAA,FinServ,USAA Mobile 7.58.1,iOS,Swift (Native),"Notable Apple Frameworks: GL, Metal, MapKit, Photos, Contacts, Siri, Watch, Widget","- Google Toolbox Session Fetcher
+- Protobuffs
+","Very traditional native iOS app; primarily Swift w/ some legacy Objective-C
+
+Lock screen extension, Apple Watch and Siri supported"
+Allscripts Healthcare Solutions,Healthcare,FollowMyHealth 3.4.1,iOS,Swift (Native),"Notable Apple Frameworks: Location, Core Data, Metal, Photos
+
+Salesforce.com","- Font Awesome
+- Google Toolbox Session Fetcher
+","Very traditional native iOS app; primarily Swift w/ some legacy Objective-C
+
+Extensive Spanish language support
+
+More typical level of 3rd party and OSS utilization"
